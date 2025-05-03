@@ -1,0 +1,10 @@
+ cd /
+    2  ls
+    3  cd home/
+    4  ls
+    5  cd ec2-user/
+    6  ls
+    7  cd Nik_github/
+    8  ls
+    9  history
+

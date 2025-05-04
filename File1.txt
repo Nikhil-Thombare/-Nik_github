@@ -1,1 +1,3 @@
  echo " My NAme is khan"
+
+and im not terrorist
